@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS: LEVEL ZERO",
+  "description": "An original dark fantasy RPG productivity and quest leveling system. Rise, complete quests, earn XP, raise your stats, unlock achievements, and evolve your rank.",
+  "requestFramePermissions": ["notifications", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
